@@ -1,0 +1,5 @@
+{
+  "name": "Lumina - Aesthetic Photo Watermarker",
+  "description": "Upload photos to automatically extract EXIF data and generate aesthetic watermarks with camera logos.",
+  "requestFramePermissions": []
+}
